@@ -1,0 +1,1 @@
+import{r as s,q as r,p as o,i as t,l as i}from"./index-BiLvG-Bv.js";import{R as l}from"./index-CwO905tV.js";const u=s.memo(()=>{const a=r(),e=o();return t(l,{status:"403",title:"403",subTitle:a.formatMessage({id:"layout.error.403"}),extra:t(i,{type:"primary",onClick:()=>{e("/")},children:"Back Home"})})});export{u as default};
